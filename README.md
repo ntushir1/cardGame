@@ -11,7 +11,7 @@ Before you begin, ensure you have the following installed:
 ## Setup
 
 ```
-   git clone <repository-url>
+git clone <repository-url>
 ```
 
 ## Install dependencies
